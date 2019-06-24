@@ -1,0 +1,3 @@
+#!/bin/sh
+set -euo pipefail
+java -jar lambda-graal-1.0-SNAPSHOT-all.jar

@@ -1,0 +1,13 @@
+[ {
+  "name" : "ninja.cero.lambda.MyRequest",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "ninja.cero.lambda.MyResponse",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "ninja.cero.lambda.MyFunction",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}]
